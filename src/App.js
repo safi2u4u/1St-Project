@@ -26,9 +26,6 @@ function App() {
       <Route path='/form' element={<Form/>}/>
       <Route path='/ReactForm' element={<ReactForm/>}/>
 
-
-
-
     </Routes>
     </BrowserRouter>
   )
